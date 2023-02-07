@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  border: 1px solid #000;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
