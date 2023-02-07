@@ -1,0 +1,25 @@
+main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.recent-score header {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  border: 1px solid #000;
+  list-style: none;
+  padding-left: 0;
+}
+
+li:nth-child(even) {
+  background: gray;
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
