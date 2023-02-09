@@ -1,25 +1,96 @@
+html {
+  font-size: calc(15px + 0.390625vw);
+}
+
+body {
+  background: url(./assets/img/bg-wrestling.jpg) top left / cover no-repeat;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 3rem;
+}
+
+h2 {
+  color: #25377f;
+}
+
 main {
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
+  width: 80%;
+  border: 1px solid #fff;
+  margin: 0 auto;
+  padding: .5rem 0;
+  background-color: #fff;
+  opacity: 0.85;
+}
+
+@media screen and (min-width: 768px){
+  main {
+    flex-direction: row;
+  }
 }
 
 .recent-score header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
-ul {
-  border: 1px solid #000;
+.scores {
   list-style: none;
   padding-left: 0;
 }
 
-li:nth-child(even) {
-  background: gray;
+.scores li {
+  padding: .5rem;
+}
+
+li:nth-child(even),
+.refresh-btn {
+  background: #25377f;
   color: white;
+}
+
+li:nth-child(odd) {
+  background: #7882a5;
 }
 
 form {
   display: flex;
   flex-direction: column;
+}
+
+.refresh-btn,
+.add-new-score-btn {
+  cursor: pointer;
+}
+
+form,
+.recent-score header,
+.add-score h2 {
+  padding: 0 1rem;
+}
+
+form input {
+  margin: .25rem 0;
+  padding: .75rem .25rem;
+  font-size: 1.5rem;
+}
+
+.refresh-btn {
+  padding: .75rem;
+  text-transform: uppercase;
+  border: none;
+  font-weight: 700;
+  border-radius: 2px;
+}
+
+.add-new-score-btn:hover,
+.refresh-btn:hover {
+  filter: drop-shadow(1px 1px 2px black);
 }
