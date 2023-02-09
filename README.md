@@ -61,7 +61,7 @@ The **leaderboard** website displays scores submitted by different players. It a
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://rica213.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
