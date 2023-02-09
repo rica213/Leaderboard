@@ -13,11 +13,11 @@ refreshBtn.addEventListener('click', () => {
 });
 
 addNewScoreBtn.addEventListener('click', (e) => {
-  if (name.value === '' || score.value === '') {
-    e.preventDefault();
-  } else {
-    addScore(name.value, score.value);
+  e.preventDefault();
+  if (name.value && score.value) {
+    addScore(name.value.trim(), score.value.trim());
     init();
+    document.querySelector('.add-score-form').reset();
     displayScores().then((obj) => createDisplay(obj, scoresContainer));
   }
 });
