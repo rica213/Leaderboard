@@ -1,7 +1,7 @@
-import { scoresContainer } from "./htmlElements";
+import { scoresContainer } from './htmlElements.js';
 
 const init = () => {
   scoresContainer.innerHTML = '';
-}
+};
 
 export default init;
