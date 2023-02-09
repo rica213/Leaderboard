@@ -23,3 +23,10 @@ addNewScoreBtn.addEventListener('click', (e) => {
     });
   }
 });
+
+window.addEventListener('load', () => {
+  init();
+  displayScores().then((obj) => {
+    return createDisplay(obj, scoresContainer);
+  });
+});
