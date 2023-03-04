@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h3><b>To do list</b></h3>
+  <h1><b>Leaderboard</b></h1>
 
 </div>
 
@@ -106,7 +106,7 @@ npm run start
 
 - GitHub: [@rica213](https://github.com/rica213)
 - Twitter: [@alc3and](https://twitter.com/alc3and)
-- LinkedIn: [Larissa](https://linkedin.com/in/larissa-clarielle-andrainasoa-8768a3256/)
+- LinkedIn: [Larissa](https://linkedin.com/in/larissa-clarielle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
