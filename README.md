@@ -36,7 +36,6 @@
 
 # 📖 [LEADERBOARD] <a name="about-project"></a>
 
-
 The **leaderboard** website displays scores submitted by different players. It also allows you to submit your score.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -54,6 +53,7 @@ The **leaderboard** website displays scores submitted by different players. It a
 - **[display scores]**
 - **[refresh new scores]**
 - **[add new score]**
+- **[use Leaderboard API]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +95,6 @@ If you want to build and run the local server, run
 npm run start
 ```
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -114,9 +113,7 @@ npm run start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[use Leaderboard API]**
+- [ ] **[improve the styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,8 +131,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,16 +140,8 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank:
-> Microverse
-> My standup team
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> No Question yet
+- Microverse
+- My standup team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
