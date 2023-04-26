@@ -13,47 +13,43 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+- [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+- [💪 Key Features](#key-features)
+- [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [LEADERBOARD] <a name="about-project"></a>
+# 📖 LEADERBOARD <a name="about-project"></a>
 
-The **leaderboard** website displays scores submitted by different players. It also allows you to submit your score.
+This is a JavaScript-based leaderboard web app that displays scores and rankings for a game/activity. It is designed to be simple and easy to use, with a clean and intuitive user interface.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> **HTML**, **CSS**, and **Javascript** are used to implement this web app
+- HTML
+- CSS
+- JAVASCRIPT
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+## 💪 Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[display scores]**
-- **[refresh new scores]**
-- **[add new score]**
-- **[use Leaderboard API]**
+- **Ability to display scores**
+- **Ability to update scores**
+- **Ability to add new score**
+- **The use of the Leaderboard API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,13 +67,23 @@ The **leaderboard** website displays scores submitted by different players. It a
 
 To get a local copy up and running follow these simple example steps.
 
+### Setup
+First you have to clone this project in a folder of your choice in your locale machine
+```sh
+    cd new_folder
+    git clone git@github.com:rica213/Leaderboard.git
+```
+
 ### Prerequisites
 
 In order to run this project you need:
 
-A **_browser_** or a **_ code editor_**
+- Browser (eg. [Google Chrome](https://www.google.com/chrome/), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/browsers/)) to run the application
+- IDE (eg. [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](http://www.sublimetext.com/)) to edit the source code
 
 ### Install <a name="install"></a>
+
+To install the application, you can run the command:
 
 ```js
 npm install
@@ -99,9 +105,9 @@ npm run start
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="larissa"></a>
+## 👥 Authors <a name="authors"></a>
 
-👤 **Larissa**
+🦄 **Larissa Clarielle**
 
 - GitHub: [@rica213](https://github.com/rica213)
 - Twitter: [@alc3and](https://twitter.com/alc3and)
@@ -113,7 +119,7 @@ npm run start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[improve the styling]**
+- **Improve the UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +137,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project please give it a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
