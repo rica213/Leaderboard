@@ -12,21 +12,22 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-- [🛠 Built With](#built-with)
-  - [Tech Stack](#tech-stack)
-- [💪 Key Features](#key-features)
-- [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 LEADERBOARD ](#-leaderboard-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [💪 Key Features ](#-key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Prerequisites](#prerequisites)
+    - [Install ](#install-)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -69,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 First you have to clone this project in a folder of your choice in your locale machine
-```sh
+```
     cd new_folder
     git clone git@github.com:rica213/Leaderboard.git
 ```
@@ -85,19 +86,19 @@ In order to run this project you need:
 
 To install the application, you can run the command:
 
-```js
+```
 npm install
 ```
 
 To build a webpack bundle file,run
 
-```js
+```
 npm run build
 ```
 
 If you want to build and run the local server, run
 
-```js
+```
 npm run start
 ```
 
@@ -107,7 +108,7 @@ npm run start
 
 ## 👥 Authors <a name="authors"></a>
 
-🦄 **Larissa Clarielle**
+🦄 **Clarielle Larissa**
 
 - GitHub: [@rica213](https://github.com/rica213)
 - Twitter: [@alc3and](https://twitter.com/alc3and)
@@ -120,6 +121,7 @@ npm run start
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Improve the UI**
+- **Sort the scores**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
