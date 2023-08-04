@@ -39,6 +39,8 @@ main {
 .scores {
   list-style: none;
   padding-left: 0;
+  height: 250px;
+  overflow: scroll;
 }
 
 .scores li {
