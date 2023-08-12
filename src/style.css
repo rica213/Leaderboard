@@ -3,7 +3,11 @@ html {
 }
 
 body {
-  background: url(./assets/img/bg-wrestling.jpg) top left / cover no-repeat;
+  background-image: url(./assets/img/bg-wrestling.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: sans-serif;
 }
 
